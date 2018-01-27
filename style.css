@@ -1,0 +1,25 @@
+html
+{
+	text-align: center;
+}
+
+.spreadcalc .top
+{
+	border: 2px solid black;
+	height: 500px;
+	width: 500px;
+	text-align: center;
+}
+
+.calculator
+{
+	margin: auto;
+	display: block;
+}
+
+.keys
+{
+	text-align: center;
+}
+
+
